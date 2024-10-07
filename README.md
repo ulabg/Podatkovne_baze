@@ -1,2 +1,2 @@
-# Podatkove_baze
+# Podatkovne_baze
 Repozitorij za projekt pri PB1
