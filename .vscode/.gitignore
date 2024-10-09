@@ -2,6 +2,3 @@
 venv/
 
 *.db
-
-git add . 
-git commit -m "Prvi commit"
