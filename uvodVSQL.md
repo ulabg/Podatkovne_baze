@@ -17,7 +17,6 @@ ORDER BY ocena DESC, naslov;
 ```
 
 ```sql
-
 SELECT naslov, ROUND(ocena)
 FROM film
 WHERE ROUND(ocena) = (SELECT MIN(ROUND(ocena)) From film);
