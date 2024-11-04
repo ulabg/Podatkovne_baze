@@ -11,3 +11,4 @@ Tabela narocilo:
 ```sql
 SELECT * FROM narocilo
 ```
+```sql
