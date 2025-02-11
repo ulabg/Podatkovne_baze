@@ -1,4 +1,6 @@
-# Osnovne poizvedbe s SELECT
+# UVOD V SQL
+
+### Osnovne poizvedbe s SELECT
 
 Vsi filmi z oceno višjo od 8 in več kot 10.00 glasovi, ki se začnejo z besedo Boter:
 ```sql
